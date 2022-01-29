@@ -17,7 +17,12 @@ npx do_that_1.2
 ## Usage
 
 ```sh
-Just install with npx command and further commands to use the CLI app will be listed on it as soon it's loaded.
+    npx do_that_1.1  :    Menu
+    npx do_that_1.1 new string_taskname  :    Create a new task
+    npx do_that_1.1 get  :    Retrieve your tasks
+    npx do_that_1.1 done string_taskname :    Mark as complete
+    npx do_that_1.1 help :    Help
+    npx do_that_1.1 exit :    Exit the app
 ```
 
 ## Run tests
