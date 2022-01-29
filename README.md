@@ -26,6 +26,12 @@ Just install with npx command and further commands to use the CLI app will be li
 npm run test
 ```
 
+## To run it locally
+
+```sh
+node.js index.js
+```
+
 ## Author
 
 👤 **Adithya Nandakumar**
